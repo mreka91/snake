@@ -1,0 +1,16 @@
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\bin\Debug\net5.0\Snake-game.exe
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\bin\Debug\net5.0\Snake-game.deps.json
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\bin\Debug\net5.0\Snake-game.runtimeconfig.json
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\bin\Debug\net5.0\Snake-game.runtimeconfig.dev.json
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\bin\Debug\net5.0\Snake-game.dll
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\bin\Debug\net5.0\ref\Snake-game.dll
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\bin\Debug\net5.0\Snake-game.pdb
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\Snake-game.csprojAssemblyReference.cache
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\Snake-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\Snake-game.AssemblyInfoInputs.cache
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\Snake-game.AssemblyInfo.cs
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\Snake-game.csproj.CoreCompileInputs.cache
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\Snake-game.dll
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\ref\Snake-game.dll
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\Snake-game.pdb
+C:\Users\mreka\RiderProjects\Snake-game\Snake-game\obj\Debug\net5.0\Snake-game.genruntimeconfig.cache
